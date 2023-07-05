@@ -1,5 +1,6 @@
 // Arrays
 // One Dimensional arrays
+// EDA Play ground link: https://www.edaplayground.com/x/dRzq
 module arrays_eg();
   // Method 1:
   int arr1[2:0];		// Declaration
@@ -26,7 +27,6 @@ module arrays_eg();
     #10 $finish;
 endmodule
 
-// EDA Play ground link: https://www.edaplayground.com/x/dRzq
 /* output:
 '{1, 2, 3}
 arr2[2] = 22
