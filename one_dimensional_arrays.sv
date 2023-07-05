@@ -26,6 +26,7 @@ module arrays_eg();
     #10 $finish;
 endmodule
 
+// EDA Play ground link: https://www.edaplayground.com/x/dRzq
 /* output:
 '{1, 2, 3}
 arr2[2] = 22
