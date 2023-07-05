@@ -22,4 +22,13 @@ module arrays_eg();
           $display("arr2[%0d] = %0d",i,arr2[i]);
         end
     end
+  initial
+    #10 $finish;
 endmodule
+
+/* output:
+'{1, 2, 3}
+arr2[2] = 22
+arr2[1] = 25
+arr2[0] = 41
+*/
